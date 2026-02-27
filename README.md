@@ -31,4 +31,4 @@ This codebase provides an end-to-end template for preparing data, launching fine
 
 <img width="1693" height="877" alt="image" src="https://github.com/user-attachments/assets/2e101ebf-cf94-4d38-87c6-2b99fc672d55" />
 
-<img width="1146" height="335" alt="image" src="https://github.com/user-attachments/assets/110b403f-f3f2-403c-a4d3-0c3a78ab1257" />
+
